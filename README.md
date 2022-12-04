@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mrmannimaker
+- 👀 I’m an all-inclusive Nerd: DnD, MTG, Programming, Board games.
+- 🌱 I’m currently learning Frontend-Web development with HTML, CSS and Javascript
